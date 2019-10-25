@@ -6,7 +6,8 @@ It is written in Python and designed with Atom. Third party libraries used for t
 # Download
 
 Download the file [here](https://github.com/SoumyaKB96/clime/archive/master.zip)
-Extract it and Run it.
+Extract it.
+`py Clime.pyw`
 
 # ScreenShots
 
